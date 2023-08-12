@@ -1,6 +1,7 @@
 ## ❤ Bom diaa, Eu sou o Manhani 
 
-- 🎓 Atualmente cursando 1° semestre de Ciencia da Computação
+- 🎓 Atualmente cursando 3° semestre de Ciencia da Computação
+- 🎓 Curso de Programação Oracle Pela Gerando Falcões
 - 👦 Pronomes: Ele/Dele
 
 <div align="center">
