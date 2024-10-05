@@ -1,7 +1,7 @@
-## ❤ Bom diaa, Eu sou o Manhani 
+## ❤ Bom dia, Eu sou o Manhani 
 
-- 🎓 Atualmente Cursando 4° semestre de Ciencia da Computação
-- 🎓 Curso de Programação Oracle Pela Gerando Falcões
+- 🎓 Atualmente Cursando 2° semestre de Analise e desenvolvimento de sistemas
+- 🎓 Formado em Programação java Pela Oracle em parceria com a gerando falcões
 - 👦 Pronomes: Ele/Dele
 
 <div align="center">
