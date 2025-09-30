@@ -1,6 +1,6 @@
 ## ❤ Bom dia, Eu sou o Manhani 
 
-- 🎓 Atualmente Cursando 2° semestre de Analise e desenvolvimento de sistemas
+
 - 🎓 Formado em Programação java Pela Oracle em parceria com a gerando falcões
 - 👦 Pronomes: Ele/Dele
 
